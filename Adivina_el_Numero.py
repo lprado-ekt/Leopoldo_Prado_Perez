@@ -1,5 +1,6 @@
-from random import randint
+#Solo para probar los cambio en Git
 
+from random import randint
 intentos = 0
 estimado = 0
 numero_secreto = randint(1,100)

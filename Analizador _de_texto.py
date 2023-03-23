@@ -1,3 +1,4 @@
+#Modificado
 texto = input("Ingresa un texto de tu elección:")
 letras = []
 

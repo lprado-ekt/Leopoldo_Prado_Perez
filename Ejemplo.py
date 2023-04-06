@@ -1,3 +1,6 @@
+#Comentrio agregado para conflicto en ramas
+#Ojo
+
 class Calculadora:
     num1 = 0
     num2 = 0
